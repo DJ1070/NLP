@@ -10,7 +10,7 @@ I'm using a <a href = 'https://www.kaggle.com/kazanova/sentiment140?select=train
 
 The steps are:
 <ul>
-  <li>Removing URLs, citations and e-mail addresses as well as punctuation and so called <a href = 'https://medium.com/@saitejaponugoti/stop-words-in-nlp-5b248dadad47'>stop words</a>. Stop words (I, you, between, against, for, vary etc.) are widely used and don't add to understanding in NLP.</li>
+  <li>Removing URLs, citations and e-mail addresses as well as punctuation and so called <a href = 'https://medium.com/@saitejaponugoti/stop-words-in-nlp-5b248dadad47'>stop words</a>. Stop words (I, you, between, against, for, very etc.) are widely used and don't add to understanding in NLP.</li>
   <li>Tokenization</li>
   <li>Splitting the dataset into a train and a test part with a validation set inbetween</li>
 </ul>
