@@ -1,6 +1,6 @@
 # Sentiment Detection on Twitter Tweets with Natural Language Processing (NLP) 
 
-
+<img src = './photos/twitter-nlp.jpg' width = 960 height = 640>
 
 The goal of this deep learning project is to set up an automatic detection of the sentiments of Twitter Tweets. 
 
